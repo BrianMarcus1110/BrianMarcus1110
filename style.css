@@ -26,6 +26,14 @@ li a:hover:not(.active) {
   }
   
   li a .active {
-    background-color: #04AA6D;
+    background-color: #04AA6D; HELP HELP HELP HELP HELP HELP HELP HELP HELP 
     color: white;
+  }
+  aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: black;
   }
