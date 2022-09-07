@@ -25,6 +25,6 @@ li a:hover:not(.active) {
     background-color:black;
   }
   
-  .active {
-    background-color: purple;
-  }
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
