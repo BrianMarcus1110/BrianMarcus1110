@@ -21,11 +21,13 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+li a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
 li a:hover:not(.active) {
-    background-color:black;
-  }
-  
-  li a .active {
-    background-color: #04AA6D;
-    color: white;
-  }
+  background-color: #555;
+  color: white;
+}
