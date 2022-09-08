@@ -31,12 +31,12 @@ li a .active {
   HELP HELP HELP HELP HELP HELP HELP HELP HELP color: white;
 }
 
-aside {
-  width: 30%;
-  padding-left: 15px;
-  margin-left: 15px;
-  float: right;
-  font-style: italic;
-  background-color: #333;
-  HELP MET NETJES ZETTEn
-}
+.wrapper .sidebar{
+  background: rgb(5, 68, 104);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 225px;
+  height: 100%;
+  padding: 20px 0;
+  transition: all 0.5s ease;
