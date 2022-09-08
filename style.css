@@ -31,3 +31,13 @@ li a .active {
   HELP HELP HELP HELP HELP HELP HELP HELP HELP ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! color: white;
 }
 
+aside {
+  width: 15%;
+  padding-left: 15px;
+  padding-top: 5px;
+  margin-top: 5px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: #333;
+}
