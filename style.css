@@ -35,6 +35,7 @@ li a .active {
 aside {
   width: 15%;
   padding-left: 15px;
+  padding-top: 5px;
   margin-left: 15px;
   float: right;
   font-style: italic;
