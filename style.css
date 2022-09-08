@@ -23,12 +23,12 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: black;
+  background-color: purple;
 }
 
 li a .active {
   background-color: #04AA6D;
-  HELP HELP HELP HELP HELP HELP HELP HELP HELP ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! color: white;
+  HELP HELP HELP HELP HELP HELP HELP HELP HELP ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! color;
 }
 
 aside {
