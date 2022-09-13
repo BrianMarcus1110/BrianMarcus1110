@@ -57,12 +57,12 @@ body {
   }
 
 }
-table, th, td { border: 1px solid purple
+table, th , td { border: 1px solid purple
 }
 table {
   width: 100%;
 }
 
 th {
-  height: 400%;
+  height: 70px;
 }
