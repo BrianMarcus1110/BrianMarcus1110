@@ -70,6 +70,9 @@ th,
 td {
   border: 1px solid purple
 }
+.padded img {
+  padding-top: 5cm;
+}
 
 table {
   width: 100%;
