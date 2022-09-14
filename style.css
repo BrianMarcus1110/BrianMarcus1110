@@ -82,9 +82,9 @@ th {
 td {
   height: 44px;
 }
-h1,h2 {
+h1,h2,h5,h12 {
   font-size: large;
 }
-h3,h4 {
+h3,h4,h6,h7,h8,h9,h10,h11,h12 {
   font-size: larger;
 }
