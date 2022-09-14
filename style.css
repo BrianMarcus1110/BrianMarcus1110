@@ -82,3 +82,9 @@ th {
 td {
   height: 44px;
 }
+h1,h2 {
+  font-size: large;
+}
+h3,h4 {
+  font-size: larger;
+}
