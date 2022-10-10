@@ -92,7 +92,7 @@ img {
 }
 
 .isNotComplete {
-  background-color: white;
+  background-color: gray;
 }
 
 .isComplete {
