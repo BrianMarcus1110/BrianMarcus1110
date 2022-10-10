@@ -90,3 +90,11 @@ img {
   display: inline-block;
   margin: 25px 10px;
 }
+
+.isNotComplete {
+  background-color: white;
+}
+
+.isComplete {
+  background-color: green;
+}
